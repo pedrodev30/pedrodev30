@@ -1,4 +1,7 @@
-### Hi there 👋
+<img 
+  width=100% 
+  src="https://capsule-render.vercel.app/api?type=waving&text=Olá!&nbsp;Eu&nbsp;sou&nbsp;o&nbsp;Pedro&nbsp;Henrique&color=5CCDEB&height=250&section=header&fontColor=ffffff&fontSize=50%"
+/>
 
 <!--
 **pedrodev30/pedrodev30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
