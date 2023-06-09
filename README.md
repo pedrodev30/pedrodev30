@@ -57,6 +57,12 @@
   />
   <img 
      align="center" 
+     alt="Pedro-MySQL" 
+     height="30" 
+     width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img 
+     align="center" 
      alt="Pedro-Git" 
      height="30" 
      width="40"
