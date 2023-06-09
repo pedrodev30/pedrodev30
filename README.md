@@ -43,6 +43,12 @@
   >
   <img 
      align="center" 
+     alt="Pedro-React" 
+     height="30" 
+     width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img 
+     align="center" 
      alt="Pedro-Js" 
      height="30" 
      width="40"
