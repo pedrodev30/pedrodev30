@@ -46,13 +46,22 @@
      alt="Pedro-React" 
      height="30" 
      width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
   <img 
      align="center" 
-     alt="Pedro-Js" 
+     alt="Pedro-Nodejs" 
      height="30" 
      width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
+     align="center" 
+     alt="Pedro-Git" 
+     height="30" 
+     width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+  />
   <img 
      align="center" 
      alt="Pedro-VsCode" 
