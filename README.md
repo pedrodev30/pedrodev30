@@ -1,7 +1,7 @@
-<img 
-  width=100% 
-  src="https://capsule-render.vercel.app/api?type=waving&text=Olá!&nbsp;Eu&nbsp;sou&nbsp;o&nbsp;Pedro&nbsp;Henrique&color=5CCDEB&height=250&section=header&fontColor=ffffff&fontSize=50%"
-/>
+# 👋 Hi there
+
+I'm Pedro Henrique, a logic-loving full stack web developer passionate about solving problems with technology. </br>
+I am currently completing my technical course in computer science and about to start an internship at the IFCE campus in Baturité
 
 ## 📈 Status
 
