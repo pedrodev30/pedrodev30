@@ -3,6 +3,10 @@
 I'm Pedro Henrique, a logic-loving full stack web developer passionate about solving problems with technology. </br>
 I am currently completing my technical course in computer science and about to start an internship at the IFCE campus in Baturité
 
+# 🚀 Expertise
+
+My main focus is full stack development, where I specialize in creating user-friendly, interactive web applications and creating and interacting with API's. I have extensive knowledge of HTML, CSS, JavaScript on the front and am proficient in popular frameworks and libraries such as React. On my side, I am familiar with Nodejs and SQL and the MySQL database.
+
 ## 📈 Status
 
 <div align="center">  
