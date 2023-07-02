@@ -24,7 +24,7 @@ My main focus is full stack development, where I specialize in creating user-fri
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pedrohenrique._____)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pedrodev30) 
 
-## 📈 Status
+# 📊 GitHub Stats:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrodev30&show_icons=true&count_private=true&hide_border=true&title_color=5CCDEB&icon_color=5CCDEB&text_color=ffffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
