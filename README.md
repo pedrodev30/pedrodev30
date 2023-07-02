@@ -21,71 +21,12 @@ My main focus is full stack development, where I specialize in creating user-fri
   <a href="https://www.linkedin.com/in/pedro-henrique-lp142830/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-## 🔧 Tecnologias e Ferramentas que eu utilizo
-
-<div style="display: inline_block"><br>
-  <img 
-     align="center" 
-     alt="Pedro-HTML" 
-     height="30" 
-     width="40" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  >
-  <img 
-     align="center" 
-     alt="Pedro-CSS" 
-     height="30" 
-     width="40" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  >
-  <img 
-     align="center" 
-     alt="Pedro-Js" 
-     height="30" 
-     width="40" 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  >
-  <img 
-     align="center" 
-     alt="Pedro-React" 
-     height="30" 
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-  />
-  <img 
-     align="center" 
-     alt="Pedro-Nodejs" 
-     height="30" 
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-  />
-  <img 
-     align="center" 
-     alt="Pedro-MySQL" 
-     height="30" 
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img 
-     align="center" 
-     alt="Pedro-Git" 
-     height="30" 
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-  />
-  <img 
-     align="center" 
-     alt="Pedro-VsCode" 
-     height="30" 
-     width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-  />
-  <img
-     align="center"
-     alt="Pedro-Figma"
-     height="30"
-     width="40"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-  >
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120&section=footer" />
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
